@@ -1,5 +1,1 @@
-stopwords
-punkt
-corpus
-tag
 tokenize
