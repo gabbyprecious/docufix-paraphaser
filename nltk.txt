@@ -1,2 +1,5 @@
 stopwords
 punkt
+tokenize
+tag
+corpus
