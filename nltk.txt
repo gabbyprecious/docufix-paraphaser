@@ -1,4 +1,3 @@
-tag
-tokenize
-tag
-corpus
+punkt
+averaged_perceptron_tagger
+wordnet
