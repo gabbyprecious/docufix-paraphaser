@@ -10,6 +10,4 @@ requests
 pandas
 gingerit
 random2
-nltk.tokenize
-nltk.tag
 nltk.corpus
