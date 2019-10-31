@@ -1,1 +1,1 @@
-wordnet
+pos_tag
