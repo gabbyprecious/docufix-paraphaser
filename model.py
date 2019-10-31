@@ -5,7 +5,7 @@
 
 
 import nltk
-import random
+import random2 as random
 from nltk.tokenize import word_tokenize
 from nltk.tag import pos_tag
 from nltk.corpus import wordnet as wn
