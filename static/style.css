@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 26 01:54:03 2019
-
-@author: PRECIOUS
-"""
-
 body {
     font-family: Garamond;
 }
@@ -32,4 +25,4 @@ input[type=submit]{
 }
 
 div {
-   padding-down: 50px;}
+   padding-bottom: 50px;}
