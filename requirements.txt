@@ -10,4 +10,3 @@ requests
 pandas
 gingerit
 random2
-nltk.corpus
